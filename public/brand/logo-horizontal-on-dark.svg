@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 132" role="img" aria-labelledby="title desc">
+  <title id="title">ZASHE MANAGEMENT LTD horizontal logo</title>
+  <desc id="desc">ZASHE MANAGEMENT LTD construction management logo for dark backgrounds.</desc>
+  <defs>
+    <linearGradient id="beam" x1="14" x2="106" y1="18" y2="110" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f6bd42"/>
+      <stop offset=".55" stop-color="#f08a2d"/>
+      <stop offset="1" stop-color="#dd642f"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="112" height="112" rx="16" fill="#101317" stroke="#f6bd42" stroke-opacity=".42" stroke-width="2"/>
+  <path d="M30 30h68v16L57 84h41v16H30V84l41-38H30V30Z" fill="url(#beam)"/>
+  <text x="148" y="34" fill="#9ca59d" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="800" letter-spacing="3">CONSTRUCTION MANAGEMENT</text>
+  <text x="148" y="88" fill="#f3eee4" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="58" font-weight="900" letter-spacing="1">ZASHE</text>
+  <text x="150" y="118" fill="#f6bd42" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="900" letter-spacing="4">MANAGEMENT LTD</text>
+</svg>
